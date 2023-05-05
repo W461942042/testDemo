@@ -41,5 +41,5 @@ public class LockSupportDemo {
         System.out.println(Thread.currentThread().getName() + "\t ---发出通知");
       }
     }, "t2").start();
-  }
+  } 
 }
